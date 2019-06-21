@@ -1,0 +1,76 @@
+这是我的debug
+这是我的info
+这是我的debug
+这是我的info
+这是我的debug
+这是我的info
+这是我的debug
+这是我的info
+这是我的warning
+这是我的error
+这是我的critical
+这是我的debug
+这是我的info
+这是我的warning
+这是我的error
+这是我的critical
+2019-05-30 18:42:53,648 - [logging_py18.py -->line:50] - DEBUG : 这是我的debug
+2019-05-30 18:42:53,648 - [logging_py18.py -->line:51] - INFO : 这是我的info
+2019-05-30 18:42:53,648 - [logging_py18.py -->line:52] - WARNING : 这是我的warning
+2019-05-30 18:42:53,648 - [logging_py18.py -->line:53] - ERROR : 这是我的error
+2019-05-30 18:42:53,648 - [logging_py18.py -->line:54] - CRITICAL : 这是我的critical
+这是我的debug
+这是我的info
+这是我的warning
+这是我的error
+这是我的critical
+2019-05-30 19:00:33,781 - [logging_py182.py -->line:48] - DEBUG : 这是我的debug
+2019-05-30 19:00:33,781 - [logging_py182.py -->line:51] - INFO : 这是我的info
+2019-05-30 19:00:33,781 - [logging_py182.py -->line:54] - WARNING : 这是我的warning
+2019-05-30 19:00:33,781 - [logging_py182.py -->line:57] - ERROR : 这是我的error
+2019-05-30 19:00:33,781 - [logging_py182.py -->line:60] - CRITICAL : 这是我的critical
+2019-05-30 19:34:03,365 - [logging_py183.py -->line:67] - DEBUG : 这是我的debug
+2019-05-30 19:34:03,366 - [logging_py183.py -->line:68] - INFO : 这是我的info
+2019-05-30 19:34:03,366 - [logging_py183.py -->line:69] - WARNING : 这是我的warning
+2019-05-30 19:34:03,366 - [logging_py183.py -->line:70] - ERROR : 这是我的error
+2019-05-30 19:34:03,366 - [logging_py183.py -->line:71] - CRITICAL : 这是我的critical
+2019-05-30 19:37:45,081 - [logging_py183.py -->line:69] - DEBUG : 这是我的debug
+2019-05-30 19:37:45,081 - [logging_py183.py -->line:70] - INFO : 这是我的info
+2019-05-30 19:37:45,081 - [logging_py183.py -->line:71] - WARNING : 这是我的warning
+2019-05-30 19:37:45,081 - [logging_py183.py -->line:72] - ERROR : 这是我的error
+2019-05-30 19:37:45,081 - [logging_py183.py -->line:73] - CRITICAL : 这是我的critical
+2019-05-30 19:48:02,710 - [logging_py183.py -->line:69] - DEBUG : 这是我的debug
+2019-05-30 19:48:02,710 - [logging_py183.py -->line:70] - INFO : 这是我的info
+2019-05-30 19:48:02,710 - [logging_py183.py -->line:71] - WARNING : 这是我的warning
+2019-05-30 19:48:02,710 - [logging_py183.py -->line:72] - ERROR : 这是我的error
+2019-05-30 19:48:02,711 - [logging_py183.py -->line:73] - CRITICAL : 这是我的critical
+2019-05-30 19:48:15,463 - [logging_py183.py -->line:69] - DEBUG : 这是我的debug
+2019-05-30 19:48:15,464 - [logging_py183.py -->line:70] - INFO : 这是我的info
+2019-05-30 19:48:15,464 - [logging_py183.py -->line:71] - WARNING : 这是我的warning
+2019-05-30 19:48:15,464 - [logging_py183.py -->line:72] - ERROR : 这是我的error
+2019-05-30 19:48:15,464 - [logging_py183.py -->line:73] - CRITICAL : 这是我的critical
+2019-05-30 19:48:47,555 - [logging_py183.py -->line:69] - DEBUG : 这是我的debug
+2019-05-30 19:48:47,555 - [logging_py183.py -->line:70] - INFO : 这是我的info
+2019-05-30 19:48:47,555 - [logging_py183.py -->line:71] - WARNING : 这是我的warning
+2019-05-30 19:48:47,556 - [logging_py183.py -->line:72] - ERROR : 这是我的error
+2019-05-30 19:48:47,556 - [logging_py183.py -->line:73] - CRITICAL : 这是我的critical
+2019-06-01 13:33:34,807 - [logging_py183.py -->line:54] - DEBUG : 这是我的debug
+2019-06-01 13:33:34,808 - [logging_py183.py -->line:55] - INFO : 这是我的info
+2019-06-01 13:33:34,808 - [logging_py183.py -->line:56] - WARNING : 这是我的warning
+2019-06-01 13:33:34,808 - [logging_py183.py -->line:57] - ERROR : 这是我的error
+2019-06-01 13:33:34,808 - [logging_py183.py -->line:58] - CRITICAL : 这是我的critical
+2019-06-06 10:33:31,148 - [logging_py18.py -->line:48] - DEBUG : 这是我的debug
+2019-06-06 10:33:31,149 - [logging_py18.py -->line:49] - INFO : 这是我的info
+2019-06-06 10:33:31,149 - [logging_py18.py -->line:50] - WARNING : 这是我的warning
+2019-06-06 10:33:31,149 - [logging_py18.py -->line:51] - ERROR : 这是我的error
+2019-06-06 10:33:31,149 - [logging_py18.py -->line:52] - CRITICAL : 这是我的critical
+2019-06-06 10:35:37,095 - [logging_py18.py -->line:49] - DEBUG : 这是我的debug
+2019-06-06 10:36:12,912 - [logging_py18.py -->line:49] - DEBUG : 这是我的debug
+2019-06-06 10:36:12,912 - [logging_py18.py -->line:50] - INFO : 这是我的info
+2019-06-06 10:36:25,298 - [logging_py18.py -->line:50] - INFO : 这是我的info
+2019-06-06 10:37:22,332 - [logging_py18.py -->line:49] - DEBUG : 这是我的debug
+2019-06-06 10:37:30,084 - [logging_py18.py -->line:49] - DEBUG : 这是我的debug
+2019-06-06 10:37:30,084 - [logging_py18.py -->line:50] - INFO : 这是我的info
+2019-06-06 10:37:30,084 - [logging_py18.py -->line:51] - WARNING : 这是我的warning
+2019-06-06 10:37:30,084 - [logging_py18.py -->line:52] - ERROR : 这是我的error
+2019-06-06 10:37:30,084 - [logging_py18.py -->line:53] - CRITICAL : 这是我的critical

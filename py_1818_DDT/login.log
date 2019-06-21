@@ -1,0 +1,129 @@
+2019-06-02 09:06:29,046 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 1, 'msg': '注册成功'}, 实际结果：{'code': 1, 'msg': '注册成功'}, 测试通过
+2019-06-02 09:06:29,077 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 0, 'msg': '该账户已存在'}, 实际结果：{'code': 0, 'msg': '该账户已存在'}, 测试通过
+2019-06-02 09:06:29,102 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 0, 'msg': '两次密码不一致'}, 实际结果：{'code': 0, 'msg': '两次密码不一致'}, 测试通过
+2019-06-02 09:06:29,123 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 0, 'msg': '两次密码不一致'}, 实际结果：{'code': 0, 'msg': '两次密码不一致'}, 测试通过
+2019-06-02 09:06:29,150 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-02 09:06:29,172 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-02 09:06:29,196 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-02 09:06:29,216 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-02 09:06:29,225 - [py_1818_testcase.py -->line:44] - DEBUG : 期望结果：{'code': 1, 'msg': '注册成功'}, 实际结果：{'code': 1, 'msg': '注册成功'}, 测试通过
+2019-06-02 09:06:29,237 - [py_1818_testcase.py -->line:40] - ERROR : {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '两次密码不一致'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '两次密码不一致'}
+?          ^          ^^^^^^^
+
+2019-06-02 09:06:29,251 - [py_1818_testcase.py -->line:40] - ERROR : {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '该账户已存在'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '该账户已存在'}
+?          ^          ^^^^^^
+
+2019-06-02 09:18:57,858 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 1, 'msg': '注册成功'}, 实际结果：{'code': 1, 'msg': '注册成功'}, 测试通过
+2019-06-02 09:18:57,889 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '该账户已存在'}, 实际结果：{'code': 0, 'msg': '该账户已存在'}, 测试通过
+2019-06-02 09:18:57,913 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '两次密码不一致'}, 实际结果：{'code': 0, 'msg': '两次密码不一致'}, 测试通过
+2019-06-02 09:18:57,934 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '两次密码不一致'}, 实际结果：{'code': 0, 'msg': '两次密码不一致'}, 测试通过
+2019-06-02 09:18:57,958 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-02 09:18:57,977 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-02 09:18:57,997 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-02 09:18:58,019 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-02 09:18:58,037 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 1, 'msg': '注册成功'}, 实际结果：{'code': 1, 'msg': '注册成功'}, 测试通过
+2019-06-02 09:18:58,061 - [py_1818_testcase.py -->line:41] - ERROR : {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '两次密码不一致'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '两次密码不一致'}
+?          ^          ^^^^^^^
+Traceback (most recent call last):
+  File "C:\Users\keen\PycharmProjects\python2019\py_1818_DDT\py_1818_testcase.py", line 36, in test_register
+    self.assertEqual(eval(case.excepted), res)
+  File "C:\Python373\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Python373\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Python373\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '两次密码不一致'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '两次密码不一致'}
+?          ^          ^^^^^^^
+
+2019-06-02 09:18:58,100 - [py_1818_testcase.py -->line:41] - ERROR : {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '该账户已存在'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '该账户已存在'}
+?          ^          ^^^^^^
+Traceback (most recent call last):
+  File "C:\Users\keen\PycharmProjects\python2019\py_1818_DDT\py_1818_testcase.py", line 36, in test_register
+    self.assertEqual(eval(case.excepted), res)
+  File "C:\Python373\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Python373\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Python373\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '该账户已存在'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '该账户已存在'}
+?          ^          ^^^^^^
+
+2019-06-04 14:47:57,038 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 1, 'msg': '注册成功'}, 实际结果：{'code': 1, 'msg': '注册成功'}, 测试通过
+2019-06-04 14:47:57,058 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '该账户已存在'}, 实际结果：{'code': 0, 'msg': '该账户已存在'}, 测试通过
+2019-06-04 14:47:57,068 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '两次密码不一致'}, 实际结果：{'code': 0, 'msg': '两次密码不一致'}, 测试通过
+2019-06-04 14:47:57,088 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '两次密码不一致'}, 实际结果：{'code': 0, 'msg': '两次密码不一致'}, 测试通过
+2019-06-04 14:47:57,108 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-04 14:47:57,108 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-04 14:47:57,118 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-04 14:47:57,128 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 实际结果：{'code': 0, 'msg': '账号和密码必须在6-18位之间'}, 测试通过
+2019-06-04 14:47:57,138 - [py_1818_testcase.py -->line:45] - DEBUG : 期望结果：{'code': 1, 'msg': '注册成功'}, 实际结果：{'code': 1, 'msg': '注册成功'}, 测试通过
+2019-06-04 14:47:57,148 - [py_1818_testcase.py -->line:41] - ERROR : {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '两次密码不一致'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '两次密码不一致'}
+?          ^          ^^^^^^^
+Traceback (most recent call last):
+  File "C:\Users\keen\PycharmProjects\python2019\py_1818_DDT\py_1818_testcase.py", line 36, in test_register
+    self.assertEqual(eval(case.excepted), res)
+  File "C:\Python373\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Python373\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Python373\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '两次密码不一致'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '两次密码不一致'}
+?          ^          ^^^^^^^
+
+2019-06-04 14:47:57,158 - [py_1818_testcase.py -->line:41] - ERROR : {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '该账户已存在'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '该账户已存在'}
+?          ^          ^^^^^^
+Traceback (most recent call last):
+  File "C:\Users\keen\PycharmProjects\python2019\py_1818_DDT\py_1818_testcase.py", line 36, in test_register
+    self.assertEqual(eval(case.excepted), res)
+  File "C:\Python373\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Python373\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Python373\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '注册成功'} != {'code': 0, 'msg': '该账户已存在'}
+- {'code': 1, 'msg': '注册成功'}
+?          ^          ^^^^
+
++ {'code': 0, 'msg': '该账户已存在'}
+?          ^          ^^^^^^
+

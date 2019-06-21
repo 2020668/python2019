@@ -1,0 +1,32 @@
+<div class="htmledit_views" id="content_views">
+            <p>先写宽松的正则表达式</p>
+
+<p>URL的一般由以下四个部分组成：</p>
+
+<p>&lt;协议&gt;://&lt;主机&gt;:&lt;端口&gt;/&lt;路径&gt;</p>
+
+<p>1.&lt;协议&gt;就是指出使用什么协议来获取该万维网文档。现在最常用的协议就是http(超文本传送协议HTTP),其次是ftp(文件传送协议FTP)。所以这里就用这两个</p>
+
+<p>2.&lt;主机&gt;指出这个万维网文档是在那一台主机上。所以就是指该主机在互联网上的域名。</p>
+
+<p>3.&lt;端口&gt;&lt;路径&gt;，一般省略所以暂时也不写。45</p>
+
+<p>4.URL的&lt;协议&gt;和&lt;主机&gt;部分，字母不分大小写。但&lt;路径&gt;有时要分大小写。</p>
+
+<p>那么我们开始写正则表达式了。</p>
+
+<p>patt = "((http|ftp|HTTP|FTP)://)?www\..+(/.+)*"</p>
+
+<p>由于对url的了解还不够彻底，所以大部分正则表达式还是比较宽松，实际用的时候还是要根据具体的情况进行修改</p>
+
+<p>&gt;&gt;&gt; patt = "((http|ftp|HTTP|FTP)://)?www\..+(/.+)*"<br>
+&gt;&gt;&gt; m = re.match(patt,'www.tsinghua.edu.cn')<br>
+&gt;&gt;&gt; if m is not None:m.group()</p>
+
+<p>'www.tsinghua.edu.cn'<br>
+&gt;&gt;&gt; m = re.match(patt,'www.tsinghua.edu.cn/publish/newthu/newthu_cont/faculties/index.html')<br>
+&gt;&gt;&gt; if m is not None:m.group()</p>
+
+<p>'www.tsinghua.edu.cn/publish/newthu/newthu_cont/faculties/index.html'</p>
+
+<p>实验通过</p>          </div>
