@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04a9405c-066e-4f1f-a00a-c4cb04b8cba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_代理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/hm_01_发送带headers和参数的请求.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_05_网络爬虫/hm_01_发送带headers和参数的请求.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_fanyi.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_proxies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/hm_05_proxies_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/hm_06_view_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_outputer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/spider_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/hm_01_发送带headers和参数的请求.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_05_网络爬虫/hm_01_headers_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_代理.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_05_网络爬虫/hm_07_bilibili_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/爬取爱情故事.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_05_网络爬虫/love_story.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +24,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_代理.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/verified_proxies.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="204">
+              <caret line="156" selection-start-line="156" selection-end-line="156" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_07_bilibili_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="29" column="50" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="50" />
+              <folding>
+                <element signature="e#169#179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/spider_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+              <folding>
+                <element signature="e#169#249#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_downloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="e#169#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_outputer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#293#329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="e#2262#2268#0" expanded="true" />
+                <element signature="e#2268#2274#0" expanded="true" />
+                <element signature="e#2402#2408#0" expanded="true" />
+                <element signature="e#2408#2414#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_proxies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -41,17 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/py_1818_DDT/logging_py183.py" />
-        <option value="$PROJECT_DIR$/py_1818_DDT/py_1818_testcase.py" />
-        <option value="$PROJECT_DIR$/py_1818_DDT/log3.py" />
-        <option value="$PROJECT_DIR$/py_1818_DDT/log2.py" />
-        <option value="$PROJECT_DIR$/py_1819_setconf/my.conf1" />
-        <option value="$PROJECT_DIR$/py_1819_setconf/runner.py" />
-        <option value="$PROJECT_DIR$/py_1819_setconf/my_conf.py" />
-        <option value="$PROJECT_DIR$/py_1819_conf/common/config.py" />
-        <option value="$PROJECT_DIR$/py_1819_conf/conf/config.ini" />
-        <option value="$PROJECT_DIR$/py_1819_day/common/config.py" />
-        <option value="$PROJECT_DIR$/py_1818_setconf/my_conf.py" />
         <option value="$PROJECT_DIR$/py_1819_day/test/test_1.py" />
         <option value="$PROJECT_DIR$/py_1819_day/conf/config.ini" />
         <option value="$PROJECT_DIR$/py_1819_catelog_frame/testcases/py_1818_testcase.py" />
@@ -92,6 +171,17 @@
         <option value="$PROJECT_DIR$/hm_05_网络爬虫/hm_01_发送带headers和参数的请求.py" />
         <option value="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_fanyi.py" />
         <option value="$PROJECT_DIR$/hm_05_网络爬虫/spider_代理.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_代理.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/hm_05_ip代理池.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/hm_06_查看请求ip.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/hm_05_proxies_ip.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_proxies.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/test.html" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/hm_07_bilibili_spider.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_parser.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_outputer.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/spider_main.py" />
+        <option value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_downloader.py" />
       </list>
     </option>
   </component>
@@ -120,6 +210,12 @@
               <item name="python2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="python2019" type="462c0819:PsiDirectoryNode" />
               <item name="hm_05_网络爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python2019" type="462c0819:PsiDirectoryNode" />
+              <item name="hm_05_网络爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="zhipin_spider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,8 +251,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hm_03_fanyi">
-    <configuration name="hm_01_发送带headers和参数的请求" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.spider_main">
+    <configuration name="hm_03_spider_proxies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +264,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_网络爬虫/hm_01_发送带headers和参数的请求.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_proxies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,28 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_01_pymysql_查询模块功能" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_操作_mysql" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_操作_mysql/hm_01_pymysql_查询模块功能.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hm_02_tiebaspider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_07_bilibili_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +285,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_网络爬虫/hm_02_tiebaspider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_网络爬虫/hm_07_bilibili_spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_03_fanyi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="html_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_05_网络爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_网络爬虫/hm_03_fanyi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_downloader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_suite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="html_outputer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,11 +323,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py_1819_catelog_frame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py_1819_catelog_frame/run_suite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_outputer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/spider_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hm_03_fanyi" />
-        <item itemvalue="Python.hm_02_tiebaspider" />
-        <item itemvalue="Python.hm_01_发送带headers和参数的请求" />
-        <item itemvalue="Python.hm_01_pymysql_查询模块功能" />
-        <item itemvalue="Python.run_suite" />
+        <item itemvalue="Python.spider_main" />
+        <item itemvalue="Python.html_downloader" />
+        <item itemvalue="Python.html_outputer" />
+        <item itemvalue="Python.hm_07_bilibili_spider" />
+        <item itemvalue="Python.hm_03_spider_proxies" />
       </list>
     </recent_temporary>
   </component>
@@ -282,18 +378,27 @@
       <option name="presentableId" value="Default" />
       <updated>1559411826455</updated>
     </task>
+    <task id="LOCAL-00001" summary="版本 0.0.1新增代理爬虫">
+      <created>1561262104116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561262104116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18163805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" visible="true" weight="0.31586403" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -306,74 +411,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="版本 0.0.1新增代理爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="版本 0.0.1新增代理爬虫" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/py_1816_DDT/report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py18_19day/reports/reports.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py_1819_catelog_frame/register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py18_19day/testcases/test_register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="859">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#118#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py_1819_catelog_frame/library/ddt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1301">
-          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
-          <folding>
-            <element signature="e#315#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py_1819_catelog_frame/library/HTMLTestRunnerNew.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="661" column="41" lean-forward="true" selection-start-line="661" selection-start-column="41" selection-end-line="661" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py18_19day/conf/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py18_19day/run_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#118#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py_1819_catelog_frame/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/py_1819_catelog_frame/report/report.html" />
     <entry file="file://$PROJECT_DIR$/py_1818_setconf/my.conf">
       <provider selected="true" editor-type-id="text-editor">
@@ -679,27 +721,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_02_tiebaspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_03_fanyi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_01_发送带headers和参数的请求.py">
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_01_headers_request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_代理.py">
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_02_tiebaspider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="321">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_06_view_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_05_proxies_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+          <folding>
+            <element signature="e#169#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/verified_proxies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="156" selection-start-line="156" selection-end-line="156" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_03_spider_proxies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="e#2262#2268#0" expanded="true" />
+            <element signature="e#2268#2274#0" expanded="true" />
+            <element signature="e#2402#2408#0" expanded="true" />
+            <element signature="e#2408#2414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/hm_07_bilibili_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="50" />
+          <folding>
+            <element signature="e#169#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_outputer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#293#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#169#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/spider_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+          <folding>
+            <element signature="e#169#249#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
