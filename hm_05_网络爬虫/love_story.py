@@ -25,7 +25,7 @@ def getHTMLText(url, headers):
 
 def parsehtml(namelist, urllist, html):
     url = 'http://www.tom61.com/'
-    soup = BeautifulSoup(html,'html.parser')
+    soup = BeautifulSoup(html, 'html.parser')
     t = soup.find('dl', attrs={'class': 'txt_box'})
     # print(t)
 
@@ -49,7 +49,8 @@ def parsehtml2(html):
 def sendemail(url, headers):
 
     msg_from = '3023087535@qq.com'           # 发送方邮箱
-    passwd ='epezcwubcktcdehi'             # 填入发送方邮箱的授权码
+    # passwd ='epezcwubcktcdehi'      # 填入发送方邮箱的授权码
+    passwd = 'egxkxbfwyvdxdeje'
     receivers = ['415250069@qq.com']         # 收件人邮箱
 
     subject = '今日份的睡前小故事'             # 主题

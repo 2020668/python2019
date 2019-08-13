@@ -21,8 +21,8 @@ class HtmlDownloader(object):
     def get_page(self, baseUrl, page_num, keyword):
         try:
             #
-            param = {"query": keyword, "city": "101200100", "page": page_num}
-
+            # param = {"query": keyword, "city": "101200100", "page": page_num}
+            param = {"query": keyword, "city": "101010100", "page": page_num}
             # 设置请求头，模拟浏览器访问
             header = {
                 'User-Agent': r'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)'
