@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04a9405c-066e-4f1f-a00a-c4cb04b8cba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aa_regular/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa_regular/check_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa_regular/test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py_1821_app_autotest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py_1821_app_autotest/app_h5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/love_story.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_05_网络爬虫/love_story.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/boss1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/boss1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/html_downloader.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +35,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aa_regular/check_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="622">
-              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+            <state relative-caret-position="68">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/py_1821_app_autotest/app_h5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#166#194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -65,8 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/py18_190day/common/logger.py" />
-        <option value="$PROJECT_DIR$/py18_190day/testcases/test_register.py" />
         <option value="$PROJECT_DIR$/py18_19day/common/logger.py" />
         <option value="$PROJECT_DIR$/py18_19day/common/config.py" />
         <option value="$PROJECT_DIR$/py18_19day/run_suite.py" />
@@ -116,6 +133,8 @@
         <option value="$PROJECT_DIR$/regular.py" />
         <option value="$PROJECT_DIR$/aa_regular/test_1.py" />
         <option value="$PROJECT_DIR$/aa_regular/check_email.py" />
+        <option value="$PROJECT_DIR$/py_1821_app_autotest/111.py" />
+        <option value="$PROJECT_DIR$/py_1821_app_autotest/app_h5.py" />
       </list>
     </option>
   </component>
@@ -143,7 +162,7 @@
             <path>
               <item name="python2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="python2019" type="462c0819:PsiDirectoryNode" />
-              <item name="aa_regular" type="462c0819:PsiDirectoryNode" />
+              <item name="py_1821_app_autotest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,7 +174,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app_framework" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -324,10 +343,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14597094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1459431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -352,13 +370,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="版本 0.0.2新增招聘爬虫" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aa_00_practice/py_18_01/common/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aa_00_practice/py_18_01/common/logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -544,16 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/py_1819_catelog_frame/run_suite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -667,6 +668,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/test.html" />
     <entry file="file://$PROJECT_DIR$/regular.py" />
+    <entry file="file://$PROJECT_DIR$/aa_regular/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hm_05_网络爬虫/zhipin_spider/spider_main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -684,17 +692,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aa_regular/test_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aa_regular/check_email.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py_1821_app_autotest/app_h5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#166#194#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
